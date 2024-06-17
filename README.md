@@ -13,7 +13,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/abj247/MASDA)
 
 
-
+Work in progress. Stay Tuned!
 
 
 # SMGLib: A Social Mini-Game Library
